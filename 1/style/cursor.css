@@ -4,6 +4,7 @@
   background-color: black;
   border-radius: 50%;
   position: relative;
+  display: none;
 }
 
 .cursor-ring {
